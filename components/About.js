@@ -26,10 +26,10 @@ const About = () => {
         <p>
           In this advanced civilization, humans no longer reside in an organic
           form but are instead represented by their digital CloneX avatars. This
-          ground breaking technology has revolutionized Homo sapiens's ability
-          to self-express themselves through customizable avatar identities.
-          This development also allows Clones to travel across galaxies and
-          expand our civilization into new galaxies and simulations.
+          ground breaking technology has revolutionized Homo sapienss ability to
+          self-express themselves through customizable avatar identities. This
+          development also allows Clones to travel across galaxies and expand
+          our civilization into new galaxies and simulations.
         </p>
 
         <button>

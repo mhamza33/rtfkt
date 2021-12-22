@@ -5,7 +5,7 @@ const PublicSale = () => {
   return (
     <div className={styles.public_sale}>
       <h1>
-        <u>PUBLIC SAL</u>E/
+        <u>PUBLIC SALE/</u>
       </h1>
       <h1>08.367</h1>
       <p>

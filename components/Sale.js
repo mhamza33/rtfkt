@@ -15,7 +15,7 @@ const Sale = () => {
       </div>
       <div className={styles.row_2}>
         <h1>
-          <u>PRESAL</u>E/
+          <u>PRESALE/</u>
         </h1>
         <h1>11.133</h1>
         <p>

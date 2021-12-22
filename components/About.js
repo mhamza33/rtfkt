@@ -1,13 +1,12 @@
 import React from "react";
 import styles from "../styles/Home.module.css";
-import Link from "next/link";
 
 const About = () => {
   return (
     <div className={styles.about}>
       <div className={styles.info}>
         <h1>
-          <u>ABOUT THE PROJEC</u>T
+          <u>ABOUT THE PROJECT</u>
         </h1>
 
         <h1>

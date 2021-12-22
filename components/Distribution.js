@@ -5,7 +5,7 @@ const Distribution = () => {
   return (
     <div className={styles.distribution}>
       <h1>
-        <u>TOTAL DISTRIBUTION</u>S/
+        <u>TOTAL DISTRIBUTIONS/</u>
       </h1>
       <img src="/chart.svg" alt="Sorry!" />
       <p>

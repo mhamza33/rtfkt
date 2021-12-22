@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.header {
+  width: 100%;
+  height: 115px;
+  display: flex;
+  color: #000;
+}
